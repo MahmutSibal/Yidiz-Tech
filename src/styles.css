@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global tweaks */
+html { scroll-behavior: smooth; }
+body { @apply bg-gray-950 text-gray-100; }
+
+.gradient-text { @apply bg-gradient-to-r from-brand-400 via-brand-300 to-brand-500 text-transparent bg-clip-text; }
+.glass { @apply bg-white/5 backdrop-blur-md border border-white/10 shadow-lg; }
