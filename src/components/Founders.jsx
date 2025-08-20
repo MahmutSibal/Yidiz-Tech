@@ -5,7 +5,7 @@ const founders = [
   {
     name: 'Mahmut Sibal',
     title: 'Yapay Zeka Destekli Programlama Uzmanı',
-    img: '/mahmut.jpg',
+    img: 'mahmut.jpg',
     email: 'mahmutsibal9@gmail.com',
     phone: '+905368983855',
     bio: 'Model destekli kod üretimi, çok ajanlı mimariler ve üretken yapay zeka entegrasyonlarında derin tecrübe.'
@@ -13,7 +13,7 @@ const founders = [
   {
     name: 'Yildiz Ucucu',
     title: 'Gömülü Yazılım Sistemler Uzmanı',
-    img: '/yildiz.jpg',
+    img: 'yildiz.jpg',
     email: 'ucucuyildiz21@gmail.com',
     phone: '+905353097436',
     bio: 'Gerçek zamanlı işletim sistemleri, donanım yakın yazılım ve güvenilirlik mühendisliği odaklı.'
