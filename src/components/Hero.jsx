@@ -23,7 +23,7 @@ const Hero = () => {
           initial={{opacity:0, y:-20}}
           animate={{opacity:1, y:0}}
           transition={{delay:0.2}}
-          src="/bos.jpg"
+          src="bos.jpg"
           alt="YildizTech Logo"
           className="mx-auto mb-8 w-32 h-32 md:w-40 md:h-40 object-contain drop-shadow-[0_0_25px_rgba(29,126,255,0.35)]"
         />
